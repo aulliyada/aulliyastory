@@ -40,10 +40,10 @@ export default siteConfig({
   //
   // To generate the following configs, visit https://giscus.app/.
   giscusGithubConfig: {
-    repo: 'fky2015/nexon',
-    repoId: 'MDEwOlJlcG9zaXRvcnkzNzkxNDQ0NTQ=',
+    repo: 'ulliyada/aulliyastory',
+    repoId: 'R_kgDOMc6iCA',
     category: 'Comments',
-    categoryId: 'DIC_kwDOFplJBs4COB_h',
+    categoryId: 'DIC_kwDOMc6iCM4ChU4d',
     mapping: 'title',
     reactionsEnabled: '1',
     theme: 'light',
