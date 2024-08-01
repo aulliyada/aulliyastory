@@ -3,7 +3,6 @@ import { siteConfig } from './lib/site-config'
 export default siteConfig({
   // the site's root Notion page (required)
   rootNotionPageId: '432bea047f164946ad936afebe442837',
-  // tes
   
 
   // It's will be used as the root page when running `yarn dev`. (optional)
