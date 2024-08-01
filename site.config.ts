@@ -23,9 +23,9 @@ export default siteConfig({
   description: 'Code for Good.',
 
   // social usernames (optional)
-  twitter: 'FKYnJYQ',
-  github: 'fky2015',
-  linkedin: '',
+  // twitter: 'FKYnJYQ',
+  // github: 'fky2015',
+  linkedin: 'aulliyada',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
