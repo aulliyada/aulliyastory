@@ -57,14 +57,14 @@ export const FooterImpl: React.FC = () => {
       </div>
 
       <div className={styles.social}>
-        <a
+{/*         <a
           className={styles.rss}
           href='/feed.xml'
           target='_blank'
           rel='noopener noreferrer'
         >
           <FaRss />
-        </a>
+        </a> */}
         {config.twitter && (
           <a
             className={styles.twitter}
