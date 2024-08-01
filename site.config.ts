@@ -42,7 +42,7 @@ export default siteConfig({
   giscusGithubConfig: {
     repo: 'aulliyada/aulliyastory',
     repoId: 'R_kgDOMc6iCA',
-    category: 'Comments',
+    category: 'General',
     categoryId: 'DIC_kwDOMc6iCM4ChU4d',
     mapping: 'title',
     reactionsEnabled: '1',
