@@ -40,7 +40,7 @@ export default siteConfig({
   //
   // To generate the following configs, visit https://giscus.app/.
   giscusGithubConfig: {
-    repo: 'ulliyada/aulliyastory',
+    repo: 'aulliyada/aulliyastory',
     repoId: 'R_kgDOMc6iCA',
     category: 'Comments',
     categoryId: 'DIC_kwDOMc6iCM4ChU4d',
